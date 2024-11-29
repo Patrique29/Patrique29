@@ -1,16 +1,17 @@
-## Hi there 👋
+## helloooooooooo
 
-<!--
-**Patrique29/Patrique29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a IT student in France.
+<br>
+There I studied :
+<br>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top margin:6px 4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/languages/python.svg" alt="Java" style="vertical-align:top margin:6px 4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/languages/php.svg" alt="Java" style="vertical-align:top margin:6px 4px">
+typescript (no logo :( )
+<br>
+I learned by myself:
+<br>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/languages/csharp_dotnet.svg" alt="C#/.NET" style="vertical-align:top margin:6px 4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/frameworks/unity.svg" alt="Unity" style="vertical-align:top margin:6px 4px">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you will mostly find my plugins for the Unity game SCP:SL using the EXILED Framework
